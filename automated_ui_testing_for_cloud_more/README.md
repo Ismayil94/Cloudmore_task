@@ -1,6 +1,6 @@
 # Testing website for the company
 
-### PS. I am using Ubuntu 20.10
+
 ### You need to have Mozilla Firefox web browser.
 ---
 
