@@ -21,4 +21,4 @@ Run **npm install -g newman-reporter-html**
 
 **Step 5:** Run API tests with newman 
 
-Run **newman run  C:\Users\I\Documents\GitHub\Cloudmore_task\automated_api_testing\API_Flow_Tests.postman_collection.json -r html **
+Run **newman run  C:\Users\I\Documents\GitHub\Cloudmore_task\automated_api_testing\API_Flow_Tests.postman_collection.json -r html**
