@@ -17,11 +17,11 @@ or
 
 ``venv/Scripts/activate.bat`` - for Windows
 
-**Step 2:** Install the requirenments:
+**Step 2:** Install the requirements:
 
-``pip install -r requirenments`` 
+``pip install -r requirements.txt`` 
 or 
-``pip3 install -r requirenments``
+``pip3 install -r requirements.txt``
 
 **Step 3:** Run the automated testing script:
 
